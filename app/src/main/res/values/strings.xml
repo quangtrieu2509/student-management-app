@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">student-management</string>
+    <string name="search">Search</string>
+    <string name="def_name">Nguyễn Văn A</string>
+    <string name="def_sid">20190000</string>
+    <string name="hint_search">Enter something</string>
+    <string name="add">Add</string>
+</resources>
